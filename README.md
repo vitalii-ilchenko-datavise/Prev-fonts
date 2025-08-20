@@ -1,6 +1,10 @@
 /web/public/fonts/Open_Sans
 
 /web/assets/css/tailwind.css
+
+
+
+
 /* Open Sans */
 @font-face {
   font-family: "Open Sans";
